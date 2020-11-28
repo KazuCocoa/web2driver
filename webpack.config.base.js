@@ -20,6 +20,8 @@ module.exports = {
     tls: "empty",
     child_process: "empty",
     module: "empty",
+    dns: "empty",
+    dgram: "empty"
   },
   module: {
     rules: [{
